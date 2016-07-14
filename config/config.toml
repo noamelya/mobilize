@@ -1,0 +1,8 @@
+from_name = "mobilize_admin"
+from_email = "admin@mobilize.com"
+to_name = "Dear, Candidate"
+subject = "Mobilize have a message"
+content = "Hello!\n Good job at the home excersize!"
+
+sg_url = "https://api.sendgrid.com"
+sg_route = "/v3/mail/send"
